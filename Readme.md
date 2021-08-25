@@ -1,6 +1,7 @@
 # Cpp Recipes
 
 1. Threads
+
 1.1 Thread Join
 
 ```cpp
